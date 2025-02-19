@@ -1,0 +1,31 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data and output files
+article_links.json
+scraping_data.json
+website_patterns.json
+scraped_articles/
+
+# Chrome driver files
+*.log
+chromedriver*
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Fonts directory
+fonts/ 
